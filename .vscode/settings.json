@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        ".editorconfig": "ignore",
+        ".gitignore": "ignore",
+        ".markdownlint": "json",
+        "LICENSE": "ignore",
+        "*.code-workspace": "jsonc",
+        "*.code-snippets": "json",
+        "*.gist": "markdown",
+        "*.chat": "markdown",
+        "*.links": "markdown"
+    },
+    "cSpell.language": "en,en-US,en-GB",
+    "cSpell.enabled": true,
+    "cSpell.enabledFileTypes": {
+        "markdown": false
+    },
+    "cSpell.ignorePaths": [
+        ".vscode",
+        "./LICENSE"
+    ],
+    "cSpell.flagWords": [],
+    "cSpell.ignoreWords": [],
+    "cSpell.words": []
+}
