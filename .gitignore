@@ -411,3 +411,6 @@ tmp
 
 # Ignore `.env`
 *.env
+
+# LTeX
+/ltex.*
