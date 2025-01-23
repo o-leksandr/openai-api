@@ -17,28 +17,13 @@ ChatGPT integration in VS Code through standard terminal.
 
 Install Node.js with [Node Version Manager](https://github.com/nvm-sh/nvm).
 
-## Test
+## How to use
 
-### [API test](./quickstart/README.md)
-
-### Prompts
-
-- [Resume](./prompts/0_resume.md)
-- [Professional Summary](./prompts/2_professional_summary.md)
-- [Key Skills](./prompts/3_key_skills.md)
-- [Additional Information](./prompts/7_additional_information.md)
-- [etc.](./prompts/etc.md)
+[API testing guide recommended by ChatGPT, with corrections from OpenAI documentation.](./quickstart/README.md)
 
 ## References
 
-### Guides
-
 - [How to integrate OpenAI into the VS Code workspace to prompting from the command line?](./docs/guide.md)
-
-### Prompting
-
-- [Learn Prompting](https://github.com/trigaten/Learn_Prompting)
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 ### [Links](./docs/sources.links)
 
