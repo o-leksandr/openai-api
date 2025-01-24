@@ -19,13 +19,9 @@ Install Node.js with [Node Version Manager](https://github.com/nvm-sh/nvm).
 
 ## How to use
 
-[API testing guide recommended by ChatGPT, with corrections from OpenAI documentation.](./quickstart/README.md)
+[“Quick Start Guide”](./quickstart/README.md#how-to-use)
 
-## References
-
-- [How to integrate OpenAI into the VS Code workspace to prompting from the command line?](./docs/guide.md)
-
-### [Links](./docs/sources.links)
+## [Links](./docs/sources.links)
 
 ## Contributing
 
